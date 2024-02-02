@@ -1,0 +1,9 @@
+S.No.,District,Specific Black Spots,Black Spot Code,Latitude,Longitude,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023- Predicted,Total Fatalities,Priority Order,Reason
+7,Coimbatore,Viswanathapuram near VG Hospital,TN-007,11.0004,76.9987,0,0,63,56,22,5,46,32,12,29,10,4,23,279,Priority 3,Accident at low speed
+19,Cuddalore,"Venkanur, Kallurm, Eluthur",TN-019,11.4763,79.0777,30,21,13,5,25,3,0,70,0,2,30,10,17,209,Priority 3,drunk and drive 
+21,Dharmapuri,Thoppur Katamedu,TN-021,12.3787,78.4132,0,24,25,36,23,1,37,11,29,0,28,35,21,249,Priority 3,Head on collision 
+53,Sivagangai,TPVM EB Office Near,TN-053,11.5957,78.5876,0,26,24,1,10,8,0,13,0,0,2,11,8,95,Priority 3,sudden brake
+78,Tiruppur,Palangarai to Tekkalur ,TN-078,11.2051,77.3016,0,23,24,0,8,56,58,17,24,0,44,4,22,258,Priority 3,signal fault 
+86,Vellore,Vellore to Chennai road,TN-086,12.9139,79.3789,0,47,0,75,20,0,0,12,22,3,9,5,16,193,Priority 3,hit and run
+90,Villupuram,Tindivanam Junction,TN-090,12.2369,79.6499,37,8,11,3,16,21,43,33,1,4,0,28,17,205,Priority 3,Bus speed
+94,Villupuram,Vridhachalam ,TN-094,10.7869,77.1743,27,6,13,1,10,26,5,35,1,0,9,6,12,139,Priority 3,car crash

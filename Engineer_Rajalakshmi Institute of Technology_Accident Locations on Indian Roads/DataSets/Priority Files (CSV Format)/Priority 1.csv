@@ -1,0 +1,12 @@
+﻿S.No.,District,Specific Black Spots,Black Spot Code,Latitude,Longitude,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023- Predicted,Total Fatalities,Priority Order,Reason
+1,Kancheepuram,Ponnerikarai to White Gate,TN-023,13.0125,80.0947,60,51,4,58,24,3,77,70,36,0,30,0,34,413,Priority 1,Rear end collision 
+2,Kancheepuram,Mevalurkuppam,TN-031,12.9876,79.9797,73,70,74,3,6,11,0,22,12,58,8,29,31,366,Priority 1,distract driving 
+3,Kancheepuram,Pulipakkam Junction Road,TN-033,12.6759,79.9582,49,51,38,59,33,20,1,0,10,74,34,14,32,383,Priority 1,Sleepy driver
+4,Kancheepuram,Thailavaram to Urapakkam junction,TN-034,12.8291,80.0448,45,48,55,54,0,3,63,21,22,2,16,13,29,342,Priority 1,Multiple vehicles collision 
+5,Kancheepuram,"Koil Junction, Maraimalai Nagar",TN-036,12.7997,80.0228,62,65,58,0,2,25,1,36,13,45,11,11,27,329,Priority 1,Head on collision 
+6,Salem,Omalr to Deevattipatty,TN-049,11.8716,78.0834,72,63,56,26,70,10,5,17,24,4,26,14,32,387,Priority 1,Distract driving 
+7,Salem,11 K.Ms,TN-052,11.6639,78.1467,41,38,27,56,35,34,52,22,0,2,12,22,28,341,Priority 1,drunk and drive
+8,Villupuram,Saram,TN-089,12.2808,79.7064,51,30,31,63,48,0,0,0,10,5,2,28,22,268,Priority 1,car crash
+9,Villupuram,Jakkampet,TN-091,11.9333,79.4833,77,31,38,0,23,9,0,12,11,42,33,5,23,281,Priority 1,Hit and run
+10,Villupuram,Sithani,TN-092,11.6849,79.2874,50,32,21,2,54,13,56,11,30,5,13,0,24,287,Priority 1,Hit and run
+11,Villupuram,Akaram Bus stop,TN-093,11.5159,79.3269,52,35,18,1,38,1,1,0,38,52,11,1,21,248,Priority 1,drunk and drive

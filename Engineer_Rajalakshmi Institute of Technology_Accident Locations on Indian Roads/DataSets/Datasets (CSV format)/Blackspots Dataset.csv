@@ -1,0 +1,101 @@
+﻿S.No.,District,Specific Black Spots,Black Spot Code,Latitude,Longitude,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023- Predicted,Total Fatalities,Priority Order,Reason
+1,Ariyalur,Kaikatti four road Junction,TN-001,11.112843,79.17093,0,0,15,0,0,0,19,39,46,0,0,9,19,128,Priority 5,car crash
+2,Ariyalur,Thirumanur Petrol Bunk,TN-002,10.939844,79.098086,0,0,13,2,34,23,0,9,0,3,32,0,8,116,Priority 5,side impact collision 
+3,Coimbatore,JJ Nagar Bridge,TN-003,10.957858,76.946446,0,12,0,3,24,15,0,0,23,77,55,33,19,242,Priority 5,Distract driving
+4,Coimbatore,Themilai to Unjawelam patty,TN-004,11.035944,76.975494,0,24,0,0,16,18,22,12,6,0,19,0,10,117,Priority 4,Head on collision 
+5,Coimbatore,Mathamapalayam Salval Company,TN-005,11.259143,76.908792,0,0,13,0,70,4,33,25,34,42,11,21,21,253,Priority 5,Accident in low speed 
+6,Coimbatore,Gas company,TN-006,10.989139,76.958806,0,0,12,0,8,0,1,0,10,0,4,9,4,44,Priority 5,Accident due to DUI
+7,Coimbatore,Viswanathapuram near VG Hospital,TN-007,11.000367,76.998707,0,0,63,56,22,5,46,32,12,29,10,4,23,279,Priority 3,Accident at low speed
+8,Coimbatore,Karpagam College Junction,TN-008,10.864868,77.021494,0,0,13,0,10,0,0,0,9,23,31,27,9,113,Priority 5,Hit and run
+9,Coimbatore,Ondipudar to Sumgam,TN-009,10.993563,77.054512,0,18,12,0,24,0,50,70,18,3,11,16,19,222,Priority 4,Drunk and drive
+10,Coimbatore,North Coimbatore to MTP road,TN-010,11.003882,77.064087,0,16,12,0,11,9,12,41,55,7,27,39,19,229,Priority 4,Rear end collision 
+11,Coimbatore,Saravanampatty to GP Signal,TN-011,11.079396,76.998707,0,21,18,70,16,34,59,14,74,34,29,19,32,388,Priority 4,sideswipe collision 
+12,Coimbatore,Ukkadam to Eachamari,TN-012,10.991174,76.965597,0,17,0,36,4,1,50,35,20,2,8,32,17,205,Priority 5,Failure in mechanics
+13,Coimbatore,Athupalam to Sugunapuram,TN-013,10.974666,76.96182,0,19,17,32,19,3,47,25,34,53,33,4,24,286,Priority 4,vehicle rollover
+14,Cuddalore,Maravai Bridge,TN-014,11.526679,79.56137,0,12,0,3,0,4,2,9,2,3,13,0,4,48,Priority 5,Chain reaction driving
+15,Cuddalore,Pamikkankuppam,TN-015,11.750151,79.55168,0,11,0,49,28,27,72,0,10,38,14,16,22,265,Priority 5,distract driving 
+16,Cuddalore,OT Clock tower to Karaikudi Junction,TN-016,11.714745,79.767921,0,0,16,2,32,7,2,10,44,8,70,20,18,211,Priority 5,Drunk and drive
+17,Cuddalore,Cuddalore Chidambaram Main road,TN-017,11.284484,79.549988,0,0,15,0,8,10,28,51,26,40,15,39,19,232,Priority 5,Failure to yeild
+18,Cuddalore,Cuddalore Chidambaram Main road,TN-018,11.447313,79.028762,0,0,12,37,33,24,29,12,29,2,30,30,20,238,Priority 5,drunk and drive 
+19,Cuddalore,"Venkanur, Kallurm, Eluthur",TN-019,11.476342,79.077745,30,21,13,5,25,3,0,70,0,2,30,10,17,209,Priority 3,drunk and drive 
+20,Cuddalore,Ayyanarpalayam,TN-020,11.938511,78.057224,23,24,29,0,0,20,0,8,0,12,19,22,13,157,Priority 2,Head on collision 
+21,Dharmapuri,Thoppur Katamedu,TN-021,12.378659,78.413227,0,24,25,36,23,1,37,11,29,0,28,35,21,249,Priority 3,Head on collision 
+22,Krishnagiri,Krishnagiri to Bangalore NH-7,TN-022,12.870146,79.707721,0,14,0,35,13,26,49,1,19,74,35,5,23,271,Priority 5,Hit and run
+23,Kancheepuram,Ponnerikarai to White Gate,TN-023,13.012514,80.094659,60,51,4,58,24,3,77,70,36,0,30,0,34,413,Priority 1,Rear end collision 
+24,Kancheepuram,Sivanthangal Road Jn,TN-024,12.961661,79.944819,0,12,11,35,11,0,57,13,19,3,35,19,18,215,Priority 4,car crash
+25,Kancheepuram,Sriperumbudur West Bypass,TN-025,12.863752,80.074644,0,13,11,0,2,1,31,9,39,20,6,32,14,164,Priority 4,Distract driving 
+26,Kancheepuram,Urappakkam Tea Shop Bus Stop,TN-026,12.199502,79.958074,0,11,14,32,65,14,0,13,0,5,29,21,17,204,Priority 4,multiple vehicles collision 
+27,Kancheepuram,"TNSTC Motel, Mamandur",TN-027,12.510027,79.883404,0,12,0,41,36,14,46,0,3,0,30,10,16,192,Priority 5,chain reaction driving 
+28,Kancheepuram,Maduranthagam Bypass,TN-028,13.02396,80.02354,0,0,13,17,40,41,6,19,18,0,1,1,13,156,Priority 5,Non- adherence driving 
+29,Kancheepuram,Chettipedu Junction,TN-029,13.021394,80.183716,0,12,0,0,6,15,1,0,4,65,13,39,13,155,Priority 5,accident at low speed 
+30,Kancheepuram,Panapakkam Road Junction,TN-030,13.001189,79.990771,34,38,20,19,26,13,72,31,43,0,30,29,30,355,Priority 2,drunk and drive 
+31,Kancheepuram,Mevalurkuppam,TN-031,12.987575,79.979708,73,70,74,3,6,11,0,22,12,58,8,29,31,366,Priority 1,distract driving 
+32,Kancheepuram,Thirumangalam,TN-032,12.71646,79.981154,27,21,41,0,14,29,73,35,8,25,9,13,25,295,Priority 2,lack of awareness 
+33,Kancheepuram,Pulipakkam Junction Road,TN-033,12.675887,79.958175,49,51,38,59,33,20,1,0,10,74,34,14,32,383,Priority 1,Sleepy driver
+34,Kancheepuram,Thailavaram to Urapakkam junction,TN-034,12.829135,80.044776,45,48,55,54,0,3,63,21,22,2,16,13,29,342,Priority 1,Multiple vehicles collision 
+35,Kancheepuram,Vandalur sign & New Bridge,TN-035,12.893033,80.086206,28,26,11,1,25,26,49,16,21,7,32,12,21,254,Priority 2,sideswipe collision 
+36,Kancheepuram,"Koil Junction, Maraimalai Nagar",TN-036,12.799657,80.022797,62,65,58,0,2,25,1,36,13,45,11,11,27,329,Priority 1,Head on collision 
+37,Kancheepuram,Vellai gate to Chinisaiyam chatram,TN-037,12.887881,79.791689,0,0,17,0,6,0,65,12,13,77,23,19,19,232,Priority 5,Hit and run
+38,Karaikumari,Marthandam to Chankai,TN-038,8.297127,77.226843,0,16,0,52,27,40,18,31,31,2,0,20,20,237,Priority 5,head on collision 
+39,Karur,Thirukkampulsyur Rountana,TN-039,10.957681,78.25,0,16,0,62,26,10,22,21,20,45,12,1,20,235,Priority 5,overspeeding
+40,Madurai,Ayyankottai Junction,TN-040,10.027293,78.014927,0,13,0,0,14,20,0,5,0,51,24,0,11,127,Priority 5,overspeeding 
+41,Madurai,Munikovil Junction,TN-041,10.017104,78.30734,0,0,16,3,31,37,6,4,1,7,29,13,12,147,Priority 5,car crash
+42,Madurai,Ayyankottai Junction,TN-042,10.027283,78.014957,0,0,15,39,6,42,38,11,5,39,17,28,20,240,Priority 5,Accident due to DUI 
+43,Nagapattinam,Sirkali to Senthankudi,TN-043,11.23964,79.72701,23,11,6,0,32,21,0,10,24,0,6,21,13,154,Priority 4,Lack of awareness 
+44,Nagapattinam,Rajivporam to Thirukadaiyur,TN-044,11.016707,79.841528,0,11,0,3,55,22,3,44,30,5,66,37,23,276,Priority 5,Rear end collision 
+45,Namakkal,Muthalaipatty Bypass,TN-045,10.817368,78.577926,0,12,0,26,13,24,0,28,39,0,8,8,13,158,Priority 5,overspeeding 
+46,Namakkal,Karukalpalayam Bus Stop,TN-046,11.34445,77.730049,0,11,0,0,19,36,56,12,41,0,70,1,21,246,Priority 5,Head on collision 
+47,Namakkal,Kottamedu Bypass,TN-047,12.738268,80.132986,0,0,11,30,18,16,1,0,0,61,19,8,14,164,Priority 5,Head on collision 
+48,Perambur,Siruvachur Cross Road,TN-048,11.192423,78.872868,0,14,0,21,33,24,0,31,0,1,19,1,12,144,Priority 5,sideswipe collision 
+49,Salem,Omalr to Deevattipatty,TN-049,11.871636,78.083419,72,63,56,26,70,10,5,17,24,4,26,14,32,387,Priority 1,Distract driving 
+50,Salem,"Mallur Junction, Santhiyur Junction",TN-050,10.906704,77.427858,27,27,18,2,9,0,0,30,11,1,8,1,11,134,Priority 2,Drunk and drive 
+51,Salem,Akkamapet Mangarangampalayam,TN-051,11.52402,77.949537,31,18,26,0,9,38,0,7,38,8,47,27,21,249,Priority 2,car crash
+52,Salem,11 K.Ms,TN-052,11.663944,78.146691,41,38,27,56,35,34,52,22,0,2,12,22,28,341,Priority 1,drunk and drive
+53,Sivagangai,TPVM EB Office Near,TN-053,11.595723,78.587582,0,26,24,1,10,8,0,13,0,0,2,11,8,95,Priority 3,sudden brake
+54,Thanjavur,"Thirumalai Samudram, Sastra Uni",TN-054,10.730688,79.017234,0,11,0,0,0,8,5,0,31,2,0,13,6,70,Priority 5,over speeding
+55,Thanjavur,Min Nagar Junction,TN-055,10.699347,78.69419,0,0,15,0,18,0,0,56,2,26,28,35,15,180,Priority 5,rash riding
+56,Thanjavur,Mariamman Koil Bypass,TN-056,10.281475,78.374404,0,0,15,6,25,28,2,9,0,4,33,0,10,122,Priority 5,out of control 
+57,Theni,10 Km Thannansali,TN-057,9.593626,77.746046,0,14,11,0,46,10,3,7,1,39,12,37,15,180,Priority 4,signal fault
+58,Thiruvallur,Punchetty to Arambakkam,TN-058,13.26521,80.153698,0,19,0,7,12,33,0,28,0,2,25,8,11,134,Priority 5,car crash
+59,Thiruvallur,Sholavaram,TN-059,13.225903,80.166277,0,0,21,5,3,0,64,28,9,77,19,32,22,258,Priority 4,overtaking
+60,Thiruvallur,Sipcot,TN-060,13.063551,80.261268,0,0,16,2,26,12,42,35,41,1,9,24,17,208,Priority 5,rash riding
+61,Thiruvallur,Kavarapettai,TN-061,13.36542,80.139497,0,0,24,2,29,0,4,17,0,6,5,18,9,105,Priority 4,vehicle blast
+62,Thoothukudi,15 to 15 = 30 Km,TN-062,8.764827,78.133284,0,22,0,0,9,24,6,32,5,5,35,30,14,168,Priority 4,rash riding
+63,Thoothukudi,Villiseri,TN-063,9.048054,77.800472,0,12,0,53,0,0,0,0,4,0,6,0,6,75,Priority 5,drunk and drive
+64,Thoothukudi,Pudukottai,TN-064,10.384118,78.797245,0,0,26,50,14,1,0,26,12,38,13,9,16,189,Priority 4,Head on collision 
+65,Trichy,Ayyappan Kovil of Vaiyampatti,TN-065,10.551089,78.303512,0,29,0,65,22,4,61,70,0,0,31,21,25,303,Priority 4,Head on collision 
+66,Trichy,Manikandam,TN-066,10.736784,78.634832,0,15,0,58,11,10,0,37,8,0,14,31,15,184,Priority 5,Lorry accident 
+67,Trichy,Pettavaithalai Bazaar,TN-067,10.7904973,78.7046585,0,12,0,0,9,22,6,11,2,0,12,43,10,117,Priority 5,out of control 
+68,Trichy,Thiruverumbur ITI bus stop,TN-068,10.7854,78.777,0,11,0,0,17,29,38,30,18,1,4,2,13,150,Priority 5,Driver fault 
+69,Trichy,Kottai cut road to asoor,TN-069,10.7199,78.8468,0,13,0,0,6,12,1,0,12,60,28,52,15,184,Priority 5,car crash 
+70,Trichy,Kurinji College bus stop,TN-070,10.8249,78.7056,0,0,18,0,0,22,0,30,0,0,0,18,7,88,Priority 5,Hit and Run 
+71,Trichy,Kaikatti to Soriyampatti,TN-071,11.02945,78.37555,0,0,29,3,5,9,2,25,31,5,33,24,14,166,Priority 5,Bike race
+72,Trichy,Malaichipuram to Thirupparaithurai,TN-072,10.8838,78.5654,0,0,11,30,34,29,4,58,0,1,15,19,17,201,Priority 5,Hit and run
+73,Trichy,Pettavaithalai Bazaar,TN-073,10.9011,78.4894,0,0,21,4,15,34,0,13,15,33,31,30,16,196,Priority 4,head on collision 
+74,Trichy,Thiruverumbur ITI bus stop,TN-074,10.7935,78.7377,0,0,14,77,28,0,0,54,11,5,7,12,17,208,Priority 5,drunk and drive 
+75,Trichy,Anna Arch,TN-075,10.7598317,78.7024164,0,0,11,41,2,27,0,9,18,0,70,2,15,180,Priority 5,hit and run
+76,Trichy,Chathirupatti to Cholan Nagar,TN-076,9.4145754,77.5990669,0,0,13,73,19,2,40,37,13,6,23,10,20,236,Priority 5,over speeding
+77,Trichy,Palpannai to Check post 4,TN-077,10.8131554,78.7131251,0,11,0,61,16,3,1,0,37,40,70,32,23,271,Priority 5,rash driving 
+78,Tiruppur,Palangarai to Tekkalur ,TN-078,11.2051,77.3016,0,23,24,0,8,56,58,17,24,0,44,4,22,258,Priority 3,signal fault 
+79,Tiruppur,Chengapalli,TN-079,11.197,77.4237,0,12,11,68,58,8,4,20,8,65,14,38,26,306,Priority 4,Brake failure
+80,Tirunelveli,Vasudevanallur,TN-080,9.2395925,77.4113705,0,11,0,0,8,0,4,27,11,9,26,18,10,114,Priority 5,DUI
+81,Tirunelveli,Kurinchikulam Villaku,TN-081,8.7743887,77.7273242,0,0,12,0,15,31,56,6,29,40,70,31,24,290,Priority 5,overtaking 
+82,Tirunelveli,"arunthikulam, Papankulam Vilakku",TN-082,8.7792,77.425,0,0,12,0,9,41,0,7,10,59,20,28,16,186,Priority 5,drunk and drive
+83,Tirunelveli,Ponnakudi,TN-083,8.6266,77.6955,0,0,14,4,3,0,54,13,23,41,30,38,18,220,Priority 5,drunk and drive
+84,Tirunelveli,Tirunelveli City,TN-084,8.741222,77.694626,0,23,0,0,54,51,0,25,17,38,35,0,20,243,Priority 4,car crash
+85,Vellore,Penamugai,TN-085,12.9376,79.1858,0,13,0,51,29,1,69,70,20,1,16,16,24,286,Priority 5,lorry fault
+86,Vellore,Vellore to Chennai road,TN-086,12.913882,79.378935,0,47,0,75,20,0,0,12,22,3,9,5,16,193,Priority 3,hit and run
+87,Vellore,Adugandhangal Main road,TN-087,12.9597,79.0096,0,15,0,74,34,4,0,0,24,3,33,7,16,194,Priority 5,over speeding
+88,Vellore,Perumbulipakkam,TN-088,12.93035,79.51515,0,0,35,1,6,26,1,10,28,1,1,16,10,125,Priority 4,bike race
+89,Villupuram,Saram,TN-089,12.2808,79.7064,51,30,31,63,48,0,0,0,10,5,2,28,22,268,Priority 1,car crash
+90,Villupuram,Tindivanam Junction,TN-090,12.236884,79.649948,37,8,11,3,16,21,43,33,1,4,0,28,17,205,Priority 3,Bus speed
+91,Villupuram,Jakkampet,TN-091,11.9333,79.4833,77,31,38,0,23,9,0,12,11,42,33,5,23,281,Priority 1,Hit and run
+92,Villupuram,Sithani,TN-092,11.6849145,79.2873903,50,32,21,2,54,13,56,11,30,5,13,0,24,287,Priority 1,Hit and run
+93,Villupuram,Akaram Bus stop,TN-093,11.5159,79.3269,52,35,18,1,38,1,1,0,38,52,11,1,21,248,Priority 1,drunk and drive
+94,Villupuram,Vridhachalam ,TN-094,10.786853,77.174332,27,6,13,1,10,26,5,35,1,0,9,6,12,139,Priority 3,car crash
+95,Villupuram,Arasur Junction Bypass,TN-095,11.73567,79.77686,40,14,17,41,11,16,3,6,0,3,11,29,16,191,Priority 2,overtaking 
+96,Villupuram,Kedilam road bypass,TN-096,10.79319,78.686676,29,17,29,59,15,1,0,29,22,23,27,16,22,267,Priority 2,rash riding
+97,Villupuram,Salem Bypass,TN-097,11.94596,79.497414,40,14,30,40,22,6,0,34,7,4,23,11,19,231,Priority 2,signal fault 
+98,Villupuram,Gingee bypass,TN-098,11.953073,79.492147,25,0,11,0,2,0,38,18,0,3,13,20,11,130,Priority 4,drunk and drive 
+99,Virudhunagar,Pattampudur to SRM Polytechnic,TN-099,9.490348,77.9470747,0,19,0,28,11,28,0,0,8,0,32,17,12,143,Priority 5,head on collision 
+100,Virudhunagar,Thottidovanpattti Junction,TN-100,9.594975,77.959258,0,0,19,4,26,0,45,24,19,0,27,15,15,179,Priority 5,head on collision 

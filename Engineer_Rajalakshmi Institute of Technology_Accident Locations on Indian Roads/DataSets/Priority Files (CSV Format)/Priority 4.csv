@@ -1,0 +1,21 @@
+S.No.,District,Specific Black Spots,Black Spot Code,Latitude,Longitude,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023- Predicted,Total Fatalities,Priority Order,Reason
+4,Coimbatore,Themilai to Unjawelam patty,TN-004,11.0359,76.9755,0,24,0,0,16,18,22,12,6,0,19,0,10,117,Priority 4,Head on collision 
+9,Coimbatore,Ondipudar to Sumgam,TN-009,10.9936,77.0545,0,18,12,0,24,0,50,70,18,3,11,16,19,222,Priority 4,Drunk and drive
+10,Coimbatore,North Coimbatore to MTP road,TN-010,11.0039,77.0641,0,16,12,0,11,9,12,41,55,7,27,39,19,229,Priority 4,Rear end collision 
+11,Coimbatore,Saravanampatty to GP Signal,TN-011,11.0794,76.9987,0,21,18,70,16,34,59,14,74,34,29,19,32,388,Priority 4,sideswipe collision 
+13,Coimbatore,Athupalam to Sugunapuram,TN-013,10.9747,76.9618,0,19,17,32,19,3,47,25,34,53,33,4,24,286,Priority 4,vehicle rollover
+24,Kancheepuram,Sivanthangal Road Jn,TN-024,12.9617,79.9448,0,12,11,35,11,0,57,13,19,3,35,19,18,215,Priority 4,car crash
+25,Kancheepuram,Sriperumbudur West Bypass,TN-025,12.8638,80.0746,0,13,11,0,2,1,31,9,39,20,6,32,14,164,Priority 4,Distract driving 
+26,Kancheepuram,Urappakkam Tea Shop Bus Stop,TN-026,12.1995,79.9581,0,11,14,32,65,14,0,13,0,5,29,21,17,204,Priority 4,multiple vehicles collision 
+43,Nagapattinam,Sirkali to Senthankudi,TN-043,11.2396,79.7270,23,11,6,0,32,21,0,10,24,0,6,21,13,154,Priority 4,Lack of awareness 
+57,Theni,10 Km Thannansali,TN-057,9.5936,77.7460,0,14,11,0,46,10,3,7,1,39,12,37,15,180,Priority 4,signal fault
+59,Thiruvallur,Sholavaram,TN-059,13.2259,80.1663,0,0,21,5,3,0,64,28,9,77,19,32,22,258,Priority 4,overtaking
+61,Thiruvallur,Kavarapettai,TN-061,13.3654,80.1395,0,0,24,2,29,0,4,17,0,6,5,18,9,105,Priority 4,vehicle blast
+62,Thoothukudi,15 to 15 = 30 Km,TN-062,8.7648,78.1333,0,22,0,0,9,24,6,32,5,5,35,30,14,168,Priority 4,rash riding
+64,Thoothukudi,Pudukottai,TN-064,10.3841,78.7972,0,0,26,50,14,1,0,26,12,38,13,9,16,189,Priority 4,Head on collision 
+65,Trichy,Ayyappan Kovil of Vaiyampatti,TN-065,10.5511,78.3035,0,29,0,65,22,4,61,70,0,0,31,21,25,303,Priority 4,Head on collision 
+73,Trichy,Pettavaithalai Bazaar,TN-073,10.9011,78.4894,0,0,21,4,15,34,0,13,15,33,31,30,16,196,Priority 4,head on collision 
+79,Tiruppur,Chengapalli,TN-079,11.1970,77.4237,0,12,11,68,58,8,4,20,8,65,14,38,26,306,Priority 4,Brake failure
+84,Tirunelveli,Tirunelveli City,TN-084,8.7412,77.6946,0,23,0,0,54,51,0,25,17,38,35,0,20,243,Priority 4,car crash
+88,Vellore,Perumbulipakkam,TN-088,12.9304,79.5152,0,0,35,1,6,26,1,10,28,1,1,16,10,125,Priority 4,bike race
+98,Villupuram,Gingee bypass,TN-098,11.9531,79.4921,25,0,11,0,2,0,38,18,0,3,13,20,11,130,Priority 4,drunk and drive 
